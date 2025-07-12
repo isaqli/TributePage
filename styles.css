@@ -55,15 +55,38 @@ h1 {
 }
 
 .artwork {
-  width: 220px;
+  width: 300px;
   background-color: rgb(42, 41, 43);
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   cursor: pointer;
 }
+
 .artwork-image {
   width: 100%;
   height: 180px;
   object-fit: cover;
+}
+
+.artwork-caption {
+  padding: 12px;
+  text-align: center;
+  color: white;
+}
+
+.artwork-year {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.artwork-medium {
+  font-size: 1.1rem;
+  color: white;
+  margin-bottom: 8px;
+}
+
+.artwork-btn {
+  display: inline-block;
 }
