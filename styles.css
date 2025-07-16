@@ -117,16 +117,23 @@ h2 {
   flex-wrap: wrap;
 }
 
-.explore-btn {
+.explore-btn, .gallery-btn {
   display: inline-block;
   width: auto;
   padding: 12px 20px;
-  background-color: rgb(13, 66, 131);
   color: white;
   text-align: center;
   text-decoration: none;
   border-radius: 8px;
   font-weight: bold;
+}
+
+.explore-btn {
+  background-color: rgb(13, 66, 131);
+}
+
+.gallery-btn {
+  background-color: rgb(131, 13, 13);
 }
 
 .explore-btn:hover {
