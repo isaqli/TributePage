@@ -1,4 +1,4 @@
-# This project is called Vincent Van Gogh Tribute
+#Van Gogh Tribute
 
 ### What does my project do
 > This project is a simple website that pays tribute to the life, art, and legacy of Vincent van Gogh, showcasing his artistic periods, famous works, and a few of my own artworks inspired by him.
